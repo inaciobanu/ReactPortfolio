@@ -1,11 +1,32 @@
-# Getting Started with Create React App
+# Modern Development with React: React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Now that i've worked with React and have multiple projects to share, it's time to develop the initial scaffolding for my first portfolio site, as well as create or update other materials so that you can showcase my skills to potential employers. Creating a portfolio using React sets us apart from other developers whose portfolios do not use some of the latest technologies.
 
-## Available Scripts
+## Required Components
+At a minimum, my portfolio must render these 6 components:  
+* App
+* Header
+* Home page
+* Projects page
+* Project (on Projects page)
+* Contact page
 
-In the project directory, you can run:
+## Base Requirements
+My portfolio had to meet the following requirements and use the following technologies:
 
+* React
+* Navigation using React Router, dynamic rendering, or another third part router
+
+The portfolio must contain the following information:
+
+* Name
+* Links to GitHub profile, LinkedIn page, Email address, Phone number (optional), CV (in PDF format)
+* A list of projects (Challenges or Projects). For each project, make sure you have the following: Project title, Link to the deployed version, Link to the GitHub repository. 
+* Screenshot of the deployed application.
+
+
+
+## Useful commands to run in the project directory
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -29,42 +50,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Review
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The URL of the functional, deployed application is [here](https://inaciobanu.github.io/ReactPortfolio/#/).
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The URL of the GitHub repository is [here](https://github.com/inaciobanu/ReactPortfolio).
